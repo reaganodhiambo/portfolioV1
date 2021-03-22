@@ -447,7 +447,7 @@ footer {
     }
 
     .main-message h2 {
-        letter-spacing: 1rem;
+        letter-spacing: 0.6rem;
         font-size: 1.5rem;
         width: 29ch;
     }
