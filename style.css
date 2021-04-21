@@ -494,3 +494,8 @@ footer {
         font-size: 1.2rem;
     }
 }
+
+textarea:focus,
+input:focus {
+    outline: none;
+}
