@@ -1,2 +1,2 @@
-# portfolio
-created using pure html and css
+# Portfolio
+### created using pure html and css and a little js
